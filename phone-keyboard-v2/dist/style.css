@@ -1,0 +1,9 @@
+body {
+  background-color: #F8BBD0;
+  font-size: 20
+    px; line-height: 1.4;
+  -webkit-font-smoothing: subpixel-antialiased;
+}
+textarea {
+  resize: none;
+}
